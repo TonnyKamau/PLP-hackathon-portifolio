@@ -331,7 +331,6 @@ This project includes extensive code comments explaining:
 - **Phone:** +254 798 428 931
 - **LinkedIn:** [tonnykamau-mwangi](https://www.linkedin.com/in/tonnykamau-mwangi/)
 - **GitHub:** [TonnyKamau](https://github.com/TonnyKamau)
-- **Portfolio:** [tonny-kamau.vercel.app](https://tonny-kamau.vercel.app/)
 
 ## 📄 License
 
