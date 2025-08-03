@@ -2,7 +2,7 @@
 
 A modern, responsive, and accessible portfolio website showcasing IT support expertise and software development skills. Built with semantic HTML5 and clean CSS for optimal performance and maintainability.
 
-![Portfolio Preview] 
+Portfolio Preview (https://plp-hackathon-portifolio.vercel.app)
 
 ## 📋 Table of Contents
 
