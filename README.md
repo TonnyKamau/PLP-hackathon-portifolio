@@ -109,14 +109,14 @@ portfolio/
 ├── README.md               # This documentation
 ├── tonny-kamau-profile.jpg # Profile image
 ├── tonny-kamau-cv.pdf      # Downloadable CV
-└── assets/                 # Additional assets (if any)
-    ├── images/
-    └── documents/
+└── styles.css              # Additional assets (if any)
+    
 ```
 
 ### Key Files
 
-- **`index.html`** - Complete portfolio website with embedded CSS
+- **`index.html`** - Complete portfolio website 
+- **`styles.css`** - style sheet file
 - **`tonny-kamau-profile.jpg`** - Professional headshot (200x200px recommended)
 - **`tonny-kamau-cv.pdf`** - Downloadable curriculum vitae
 - **`README.md`** - Project documentation
