@@ -78,12 +78,12 @@ This portfolio website presents Tonny Kamau Mwangi's professional background as 
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/tonnykamau/portfolio.git
+   https://github.com/TonnyKamau/PLP-hackathon-portifolio
    ```
 
 2. **Navigate** to the project directory:
    ```bash
-   cd portfolio
+   cd PLP-hackathon-portifolio
    ```
 
 3. **Open** `index.html` in your web browser:
